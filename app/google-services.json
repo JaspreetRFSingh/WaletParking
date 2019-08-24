@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "940211480846",
+    "firebase_url": "https://fir-concepts-58683.firebaseio.com",
+    "project_id": "fir-concepts-58683",
+    "storage_bucket": "fir-concepts-58683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940211480846:android:736c9d2d9dcaab63",
+        "android_client_info": {
+          "package_name": "com.jstech.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940211480846-at5u1g1gg0bqnf9mc2ivhnjeo90m2si2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxTWmojIVklQCAH4mp2INxkJm9eH4HiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940211480846:android:d105776dcb032dc3",
+        "android_client_info": {
+          "package_name": "com.jstech.mywalet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940211480846-at5u1g1gg0bqnf9mc2ivhnjeo90m2si2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxTWmojIVklQCAH4mp2INxkJm9eH4HiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
